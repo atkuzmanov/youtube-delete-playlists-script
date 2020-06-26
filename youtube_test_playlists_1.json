@@ -1,0 +1,414 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "6x-8WSCpdDbgcE_NK322u3WCwJk",
+  "pageInfo": {
+    "totalResults": 9,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "hMDGBMccKvLiFyu7wGfxJIPoR0I",
+      "id": "PLPY3VcGDVSUOX2yvjQPDehEcCK2NFhCYd",
+      "snippet": {
+        "publishedAt": "2020-06-26T12:26:10Z",
+        "channelId": "UCb5VRC39PqUgq8lMB1CQq3A",
+        "title": "Free youtube music 9",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dmidnightbluerandom",
+        "localized": {
+          "title": "Free youtube music 9",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DWVW2f7yafGy2oXvqAzxI0igMjw",
+      "id": "",
+      "snippet": {
+        "publishedAt": "2020-06-26T12:25:53Z",
+        "channelId": "UCb5VRC39PqUgq8lMB1CQq3A",
+        "title": "Free youtube music 8",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dmidnightbluerandom",
+        "localized": {
+          "title": "Free youtube music 8",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "DcVbnQVdETRKarl_JW8KVuADW1Y",
+      "id": "",
+      "snippet": {
+        "publishedAt": "2020-06-26T12:25:30Z",
+        "channelId": "UCb5VRC39PqUgq8lMB1CQq3A",
+        "title": "Free youtube music 7",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dmidnightbluerandom",
+        "localized": {
+          "title": "Free youtube music 7",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "xhT4kwX2cqHVImVxcPwyw8rMeb8",
+      "id": "",
+      "snippet": {
+        "publishedAt": "2020-06-26T12:25:08Z",
+        "channelId": "UCb5VRC39PqUgq8lMB1CQq3A",
+        "title": "Free youtube music 6",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dmidnightbluerandom",
+        "localized": {
+          "title": "Free youtube music 6",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "mufI2B2t_Cst2err0WTK47uByCk",
+      "id": "",
+      "snippet": {
+        "publishedAt": "2020-06-26T12:24:46Z",
+        "channelId": "UCb5VRC39PqUgq8lMB1CQq3A",
+        "title": "Free youtube music 5",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m0_mP5Ip4IA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dmidnightbluerandom",
+        "localized": {
+          "title": "Free youtube music 5",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "XGIOM6y4Sou-YU-JyPuydDYvdbw",
+      "id": "",
+      "snippet": {
+        "publishedAt": "2020-06-25T06:20:39Z",
+        "channelId": "UCb5VRC39PqUgq8lMB1CQq3A",
+        "title": "Free youtube music 4",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-1hQgI35Sss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-1hQgI35Sss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-1hQgI35Sss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-1hQgI35Sss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-1hQgI35Sss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dmidnightbluerandom",
+        "localized": {
+          "title": "Free youtube music 4",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "h8t4uiB0JCzRWwdYsn5UQXKOmC0",
+      "id": "",
+      "snippet": {
+        "publishedAt": "2020-06-25T06:20:16Z",
+        "channelId": "UCb5VRC39PqUgq8lMB1CQq3A",
+        "title": "Free youtube music 3",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JEYJMQIAx6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JEYJMQIAx6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JEYJMQIAx6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JEYJMQIAx6Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JEYJMQIAx6Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dmidnightbluerandom",
+        "localized": {
+          "title": "Free youtube music 3",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "XKpc96gGF8T7iXNKAVnwz-OE9x4",
+      "id": "",
+      "snippet": {
+        "publishedAt": "2020-06-25T06:19:56Z",
+        "channelId": "UCb5VRC39PqUgq8lMB1CQq3A",
+        "title": "Free youtube music 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kJm7Zd2XJ0o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kJm7Zd2XJ0o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kJm7Zd2XJ0o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "dmidnightbluerandom",
+        "localized": {
+          "title": "Free youtube music 2",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "0TCh355SAdKRYxLN_gCe-U-IDaw",
+      "id": "",
+      "snippet": {
+        "publishedAt": "2020-06-25T06:18:15Z",
+        "channelId": "UCb5VRC39PqUgq8lMB1CQq3A",
+        "title": "Free youtube music 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q0mUON_LA2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q0mUON_LA2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q0mUON_LA2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q0mUON_LA2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q0mUON_LA2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "dmidnightbluerandom",
+        "localized": {
+          "title": "Free youtube music 1",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    }
+  ]
+}
