@@ -31,7 +31,7 @@ Please run the script with the required parameters as follows:
 
 ----
 
-Found anything useful?! Buy us a cup of coffee if you feel like it. Thanks! 🙂🙏☕️: 
+Found anything useful?! Buy us a cup of coffee if you feel like it. Thanks! 🙂🙏☕️:
 
 ♥︎ [Cup of coffee](https://sites.google.com/view/atkuzmanov/home) ☕️
 
